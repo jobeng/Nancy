@@ -3,10 +3,10 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">\
+    android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/exp_list_item"
+        android:id="@+id/task_list_item"
         android:paddingLeft="?android:attr/expandableListPreferredChildPaddingLeft"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
